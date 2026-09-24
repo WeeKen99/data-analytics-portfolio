@@ -1,0 +1,19 @@
+# Datasets (download from Kaggle, see project READMEs)
+*.csv
+
+# Generated model artefacts
+*.joblib
+*.pkl
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+.vscode/
