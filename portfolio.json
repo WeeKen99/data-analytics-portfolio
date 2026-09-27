@@ -1,0 +1,115 @@
+[
+  {
+    "path": "01-renewable-energy-powerbi",
+    "title": "GCP Renewable Energy Pipeline",
+    "category": "Data Engineering",
+    "summary": "Cloud Storage ingestion, Dataprep transformation, BigQuery warehousing and Power BI dashboards for renewable energy data.",
+    "result": "4-stage cloud pipeline",
+    "tags": [
+      "GCP",
+      "BigQuery",
+      "Dataprep",
+      "Power BI"
+    ],
+    "order": 10,
+    "featured": {
+      "summary": "End-to-end cloud pipeline: ingestion through Cloud Storage, transformation in Dataprep, warehousing in BigQuery and dashboards in Power BI.",
+      "result": "Raw files → BigQuery → Power BI",
+      "tags": [
+        "GCP",
+        "BigQuery",
+        "Dataprep",
+        "Power BI"
+      ],
+      "image": "01-renewable-energy-powerbi/images/dashboard-solar.png",
+      "imageAlt": "Power BI dashboard of solar energy data"
+    }
+  },
+  {
+    "path": "03-cardiovascular-ml-python",
+    "title": "Cardiovascular Risk Predictor",
+    "category": "Machine Learning",
+    "summary": "Insurance triage model on 70,000 patient records, with GridSearchCV tuning and a risk-screening tool design for agents.",
+    "result": "73% accuracy · AUC 0.78",
+    "tags": [
+      "Python",
+      "XGBoost",
+      "scikit-learn"
+    ],
+    "order": 40,
+    "featured": {
+      "summary": "Insurance underwriting triage on 70,000 patient records. Decision Tree, Random Forest and XGBoost tuned with GridSearchCV, then designed into a screening tool for agents.",
+      "result": "XGBoost · 73% accuracy · AUC 0.78",
+      "tags": [
+        "Python",
+        "XGBoost",
+        "scikit-learn",
+        "pandas"
+      ],
+      "image": "03-cardiovascular-ml-python/images/data-product-ui.png",
+      "imageAlt": "Cardiovascular risk screening tool interface"
+    }
+  },
+  {
+    "path": "02-breast-cancer-sas",
+    "title": "Breast Cancer Diagnosis (SAS)",
+    "category": "Machine Learning",
+    "summary": "13 Decision Tree, Neural Network and Logistic Regression configurations compared in SAS Enterprise Miner on the Wisconsin dataset.",
+    "result": "95.8% accuracy · ROC 0.995",
+    "tags": [
+      "SAS Enterprise Miner"
+    ],
+    "order": 50
+  },
+  {
+    "path": "04-alzheimer-prediction-ml",
+    "title": "Alzheimer's Prediction Model",
+    "category": "Machine Learning",
+    "summary": "XGBoost, SVM and Decision Trees benchmarked for early Alzheimer's detection, deployed as an interactive Streamlit app.",
+    "result": "93.8% accuracy · 92.5% recall",
+    "tags": [
+      "XGBoost",
+      "SVM",
+      "Streamlit"
+    ],
+    "order": 60
+  },
+  {
+    "path": "07-customer-churn-poster",
+    "title": "Customer Churn in Malaysian Telecom",
+    "category": "Machine Learning",
+    "summary": "Churn project for the Malaysian telecom sector: EDA in R on NPS, service duration and revenue, plus a ChurnGuard AI retention dashboard design.",
+    "result": "Detractors churn the most",
+    "tags": [
+      "R",
+      "ggplot2",
+      "dplyr"
+    ],
+    "order": 70
+  },
+  {
+    "path": "05-paypal-big-data-case-study",
+    "title": "Big Data Management at PayPal",
+    "category": "Research",
+    "summary": "Group case study of how PayPal handles 25B transactions a year: the 10 V's of big data, its data lifecycle, fraud detection and the move to Google Cloud.",
+    "result": "Big data strategy case study",
+    "tags": [
+      "Big Data",
+      "Hadoop",
+      "Google Cloud"
+    ],
+    "order": 130
+  },
+  {
+    "path": "06-poster-healthcare-data-collection",
+    "title": "Healthcare Data Collection Poster",
+    "category": "Research",
+    "summary": "Academic poster for SDG 3 on fixing poor data capture in healthcare: governance, standardised EHR entry, sample schemas and app mock-ups.",
+    "result": "SDG 3 academic poster",
+    "tags": [
+      "Data Governance",
+      "UX Design"
+    ],
+    "order": 140
+  }
+]
