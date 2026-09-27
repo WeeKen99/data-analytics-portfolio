@@ -2,7 +2,7 @@
 
 **Course:** WQD7001 Principles of Data Science, Universiti Malaya (Semester 1, 2024/25)  
 **Type:** Individual academic poster  
-**Format:** [High-resolution PDF](poster.pdf) · [PNG](poster.png)
+**Format:** [PNG](poster.png)
 
 ![Poster](poster.png)
 
